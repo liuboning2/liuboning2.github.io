@@ -16,9 +16,7 @@ Education
 
 Work experience
 ======
-* 2022.07~present: Postdoc Researcher
-  * Department of Automation, Tsinghua University
-  * Supervisor: Professor Yebin Liu
+* Postdoc Researcher in the Department of Automation, Tsinghua University, 2022.07~present
 
   
 Funding Experience
