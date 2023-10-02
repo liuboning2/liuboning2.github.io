@@ -1,9 +1,10 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-
-
+layout: archive
+title: "publications"
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 
