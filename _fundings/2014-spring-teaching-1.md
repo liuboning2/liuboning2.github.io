@@ -4,7 +4,7 @@ collection: fundings
 type: "National Natural Science Foundation of China, No. 61771220"
 permalink: /teaching/2014-spring-teaching-1
 venue: "国家自然科学基金"
-date: #"Principal participant"
+date: 2018-01-01 #"Principal participant"
 location: "City, Country"
 ---
 General Program, 2018.01~2021.12. Principal participant.
