@@ -27,13 +27,13 @@ Funding Experience
   
   国家自然科学基金青年项目，主持，在研
 
-* National Key Research and Development Program of China 国家重点研发计划
-  * Key Participate 项目骨干
-  * 2022.11~2025.10 在研
+* National Key Research and Development Program of China, Key Participate, 2022.11~2025.10
 
-* National Natural Science Foundation of China General Fund 国家自然科学基金面上项目
-  * Key Participate 主要参与人
-  * 2018.01~2021.12 结题
+  国家重点研发计划，项目骨干，在研
+
+* National Natural Science Foundation of China General Fund, Key Participate, 2018.01~2021.12
+
+  国家自然科学基金面上项目，主要参与人，结题
 
 Skills
 ======
