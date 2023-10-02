@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -19,3 +19,8 @@ Papers
 * **B Liu**, Y Zhao, X Jiang, S Wang. Three-dimensional Epanechnikov mixture regression in image coding, Signal Processing 185, 108090, 2021. [Paper](https://www.sciencedirect.com/science/article/pii/S0165168421001286)
 * **B Liu**, Y Zhao, X Jiang, S Wang. An image coding approach based on mixture-of-experts regression using epanechnikov kernel, ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019. [Paper](https://ieeexplore.ieee.org/abstract/document/8682374)
 
+
+
+Patents
+======
+* Y Zhao, **B Liu**, Shigang Wang, Xuejun Wang. A compression method for elementary image array using 5-D Epanechnikov Kernel based Modeling. Patent license number: . Licensed date: 09/27/2023. 
