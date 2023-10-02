@@ -24,7 +24,8 @@ Work experience
 Funding Experience
 ======
 * National Natural Science Foundation of China Youth Fund, PI, 2024.01~2026.12
-* 国家自然科学基金青年项目，主持，在研
+  
+  国家自然科学基金青年项目，主持，在研
 
 * National Key Research and Development Program of China 国家重点研发计划
   * Key Participate 项目骨干
