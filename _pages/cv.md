@@ -11,49 +11,56 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in the College of Communication Engineering, Jilin University, 2016
+* Ph.D in the College of Communication Engineering, Jilin University, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.07~present: Postdoc Researcher
+  * Department of Automation, Tsinghua University
+  * Supervisor: Professor Yebin Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
+Funding Experience
+======
+* National Natural Science Foundation of China Youth Fund 国家自然科学基金青年项目
+  * PI 主持
+  * 2024.01~2026.12 在研
+
+* National Key Research and Development Program of China 国家重点研发计划
+  * Key Participate 项目骨干
+  * 2022.11~2025.10 在研
+
+* National Natural Science Foundation of China General Fund 国家自然科学基金面上项目
+  * Key Participate 主要参与人
+  * 2018.01~2021.12 结题
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab, C
+* Latex
+* Python (PyTorch)
+* Soft brush calligraphy
 
-Publications
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
