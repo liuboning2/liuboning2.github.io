@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _fundings
   - scope:
       path: ""
-      type: teaching
+      type: fundings
     values:
       layout: single
       author_profile: true
