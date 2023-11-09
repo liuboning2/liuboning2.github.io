@@ -23,4 +23,4 @@ Papers
 
 Patents
 ======
-* Y Zhao, **B Liu**, Shigang Wang, Xuejun Wang. A compression method for elementary image array using 5-D Epanechnikov Kernel based Modeling. Patent license number: . Licensed date: 09/27/2023. 
+* Y Zhao, **B Liu**, Shigang Wang, Xuejun Wang. A compression method for elementary image array using 5-D Epanechnikov Kernel based Modeling. Patent license number: ZL202110900318.5. Licensed date: 03/11/2023. (中国专利，已授权)
