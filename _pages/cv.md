@@ -14,7 +14,7 @@ Education
 * B.E. in the College of Communication Engineering, Jilin University, 2016
 * Ph.D in the College of Communication Engineering, Jilin University, 2022
 
-Work experience
+Work Experience
 ======
 * Postdoc Researcher in the Department of Automation, Tsinghua University, 2022.07~present
 
