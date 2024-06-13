@@ -25,7 +25,7 @@ Funding Experience
 
 * National Key Research and Development Program of China, "Holographic Media Service Computing Technology Platform and Application", Key Participate, 2022.11~2025.10. 国家重点研发计划，项目骨干
 
-* National Natural Science Foundation of China General Fund, "Joint Gaussian Distribution Function for LF Video Compression", Key Participate, 2018.01~2021.12. 国家自然科学基金面上项目，主要参与人
+* National Natural Science Foundation of China General Fund, "Joint Gaussian Distribution for LF Video Compression", Key Participate, 2018.01~2021.12. 国家自然科学基金面上项目，主要参与人
 
 Skills
 ======
