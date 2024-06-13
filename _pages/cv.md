@@ -21,9 +21,9 @@ Work experience
   
 Funding Experience
 ======
-* National Natural Science Foundation of China Youth Fund, "3D Shape Representation and Animation based on Epanechnikov Kernel", PI, 2024.01~2026.12. 国家自然科学基金青年项目，"基于二次核模型的三维几何表达及驱动"，主持，在研。
+* National Natural Science Foundation of China Youth Fund, "3D Shape Representation and Animation based on Epanechnikov Kernel", PI, 2024.01~2026.12. 国家自然科学基金青年项目，主持
 
-* National Key Research and Development Program of China, "Holographic Media Service Computing Technology Platform and Application", Key Participate, 2022.11~2025.10. 国家重点研发计划，"全息媒体服务计算技术平台与应用"，项目骨干，在研。
+* National Key Research and Development Program of China, "Holographic Media Service Computing Technology Platform and Application", Key Participate, 2022.11~2025.10. 国家重点研发计划，项目骨干
 
 * National Natural Science Foundation of China General Fund, Key Participate, 2018.01~2021.12. 国家自然科学基金面上项目，主要参与人，结题。
 
