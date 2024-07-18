@@ -12,8 +12,8 @@ redirect_from:
 
 Papers
 ======
-* **B Liu**, Y Zhao, X Jiang, X Ji, S Wang, Y Liu, J Wei. 5-D Epanechnikov Mixture-of-Experts in Light Field Image Compression, ***IEEE Transactions on Image Processing***, 2024.
-* **B Liu**, Z Zheng, Y Liu. Implicit Surface Representation using Epanechnikov Mixture Regression, ***IEEE Signal Processing Letters***, 2024.
+* **B Liu**, Y Zhao, X Jiang, X Ji, S Wang, Y Liu, J Wei. 5-D Epanechnikov Mixture-of-Experts in Light Field Image Compression, ***IEEE Transactions on Image Processing***, 2024. [Paper](https://ieeexplore.ieee.org/document/10577586)
+* **B Liu**, Z Zheng, Y Liu. Implicit Surface Representation using Epanechnikov Mixture Regression, ***IEEE Signal Processing Letters***, 2024. [Paper](https://ieeexplore.ieee.org/document/10578302)
 * S Zheng, B Zhou, R Shao, **B Liu**, S Zhang, L Nie, Y Liu. GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis, ***IEEE CVPR***, 2024. [Project](https://shunyuanzheng.github.io/GPS-Gaussian/)
 * L Hu, H Zhang, Y Zhang, B Zhou, **B Liu**, S Zhang, L Nie. GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians, ***IEEE CVPR***, 2024. [Project](https://huliangxiao.github.io/GaussianAvatar/)
 * Z Zheng, X Zhao, H Zhang, **B Liu**, Y Liu. AvatarReX: Real-Time Expressive Full-Body Avatars, ***ACM Transactions on Graphics*** (siggraph journal track), 42 (0730-0301), 2023. [Project](https://liuyebin.com/AvatarRex/)
