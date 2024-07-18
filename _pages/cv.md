@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * High school education in the High School Attached to Northeast Normal University, 2009-2012
-* B.E. in the College of Communication Engineering, Jilin University, 2016
-* Ph.D in the College of Communication Engineering, Jilin University, 2022
+* B.E. in the College of Communication Engineering, Jilin University, 2012-2016
+* Ph.D in the College of Communication Engineering, Jilin University, 2016-2022
 
 Work Experience
 ======
