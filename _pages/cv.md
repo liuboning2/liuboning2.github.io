@@ -30,11 +30,18 @@ Funding Experience
 
 * National Natural Science Foundation of China General Fund, "Joint Gaussian Distribution for LF Video Compression", Key Participate, 2018.01~2021.12. 国家自然科学基金面上项目，主要参与人
 
+Awards and Honors
+======
+* 2022.06 Excellent doctoral dissertation of Jilin University 吉林大学优秀博士学位论文
+
+Academic Service
+======
+* 2024.04-now, CSIG 3D Vision Committee, Member 中国图象图形学学会三维视觉专委会,委员
+* 2024.08-now, CSIG 3D Imaging and Display, Member 中国图象图形学学会三维成像与显示专委会,委员
+
 Skills
 ======
-* Matlab, C
-* Latex
-* Python (PyTorch)
+* Matlab, C, Latex, Python (PyTorch)
 * Soft brush calligraphy
 
 
