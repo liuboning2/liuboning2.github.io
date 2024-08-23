@@ -32,7 +32,7 @@ Funding Experience
 
 Awards and Honors
 ======
-* 2022.06 Excellent doctoral dissertation of Jilin University 吉林大学优秀博士学位论文
+* 2022.06 Excellent Doctoral Dissertation of Jilin University 吉林大学优秀博士学位论文
 
 Academic Service
 ======
