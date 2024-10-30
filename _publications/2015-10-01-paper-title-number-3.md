@@ -29,5 +29,5 @@ Patents
 ======
 * Y Zhao, **B Liu**, S Wang, X Wang. A compression method for elementary image array using 5-D Epanechnikov Kernel based Modeling. Licensed date: 03/11/2023. (中国专利，已授权)
 * J Qiu, H Chen, **B Liu**, Z Zheng. The invention relates to a dynamic SMPL expression method, system, device and medium. Licensed date: 26/01/2024. (中国专利，已授权)
+* **B Liu**, Y Liu. Geometry modeling method, device, electronic equipment and storage medium. Application date: 22/10/2024. (中国专利，已授权)
 * Y Liu, **B Liu**. The invention relates to an object 3D structure modeling method, device and storage medium. Announcement date: 26/04/2024. (中国专利，已公开)
-* **B Liu**, Y Liu. Geometry modeling method, device, electronic equipment and storage medium. Application date: 17/07/2024. (中国专利，已受理)
