@@ -26,18 +26,17 @@ Funding Experience
 
 * China Postdoctoral Science Foundation 17th Special Grant, "A Compression Framework for 360° Gaussian Splitting Rendering", PI, 2024.07~2024.09. 中国博士后科学基金第17批特别资助，**主持**
 
-* National Key Research and Development Program of China, "Holographic Media Service Computing Technology Platform and Application", Key Participate, 2022.11~2025.10. 国家重点研发计划，项目骨干
+* National Key Research and Development Program of China, "Holographic Media Service Computing Technology Platform and Application", Key Participate, 2022.11~2025.10. 科技部国家重点研发计划，项目骨干
 
 * National Natural Science Foundation of China General Fund, "Joint Gaussian Distribution for LF Video Compression", Key Participate, 2018.01~2021.12. 国家自然科学基金面上项目，主要参与人
 
 Awards and Honors
 ======
-* 2022.06 Excellent doctoral dissertation of Jilin University 吉林大学优秀博士学位论文
+* 2022.06 Excellent Doctoral Dissertation of Jilin University 吉林大学优秀博士学位论文
 
 Academic Service
 ======
 * 2024.04-now, CSIG 3D Vision Committee, Member 中国图象图形学学会三维视觉专委会, 委员
-* 2024.08-now, CSIG 3D Imaging and Display Committee, Member 中国图象图形学学会三维成像与显示专委会, 委员
 
 Skills
 ======
