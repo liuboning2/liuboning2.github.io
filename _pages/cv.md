@@ -17,7 +17,8 @@ Education
 
 Work Experience
 ======
-* Postdoc Researcher in the Department of Automation, Tsinghua University, 2022.07~present
+* Assistant Researcher in the Department of Interactive Media, Peng Cheng Laboratory, 2024.09~present
+* Postdoc Researcher in the Department of Automation, Tsinghua University, 2022.07~2024.09
 
   
 Funding Experience
