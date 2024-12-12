@@ -38,6 +38,7 @@ Awards and Honors
 Academic Service
 ======
 * 2024.04-now, CSIG 3D Vision Committee, Member 中国图象图形学学会三维视觉专委会, 委员
+* Reviewer for DSP, CGF, ECCV 2024
 
 Skills
 ======
