@@ -27,6 +27,8 @@ Funding Experience
 
 * China Postdoctoral Science Foundation 17th Special Grant, "A Compression Framework for 360° Gaussian Splitting Rendering", PI, 2024.07~2024.09. 中国博士后科学基金第17批特别资助，**主持**
 
+* National Science and Technology Major Project, "Research on Key Technologies and Standards of 3D Immersive Video Codec for Mobile Intelligent Terminal", Key Participate, 2024.12~2026.11. 科技部国家科技重大专项，项目骨干
+
 * National Key Research and Development Program of China, "Holographic Media Service Computing Technology Platform and Application", Key Participate, 2022.11~2025.10. 科技部国家重点研发计划，项目骨干
 
 * National Natural Science Foundation of China General Fund, "Joint Gaussian Distribution for LF Video Compression", Key Participate, 2018.01~2021.12. 国家自然科学基金面上项目，主要参与人
@@ -38,7 +40,7 @@ Awards and Honors
 Academic Service
 ======
 * 2024.04-now, CSIG 3D Vision Committee, Member 中国图象图形学学会三维视觉专委会, 委员
-* Reviewer for DSP, CGF, ECCV 2024
+* Reviewer for DSP, CGF, ECCV 2024, CVPR 2025
 
 Skills
 ======
