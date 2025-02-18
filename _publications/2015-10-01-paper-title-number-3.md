@@ -32,3 +32,8 @@ Patents
 * **B Liu**, Y Liu. Geometry modeling method, device, electronic equipment and storage medium. Licensed date: 22/10/2024. (中国专利，已授权)
 * **B Liu**, Y Liu. A fast geometric modeling method and device. Accepted date: 04/11/2024. (中国专利，已受理)
 * Y Liu, **B Liu**. The invention relates to an object 3D structure modeling method, device and storage medium. Announcement date: 26/04/2024. (中国专利，已公开)
+* **B Liu**, R Wang, W Gao. Gaussian point cloud rendering method, device, device and storage medium. Accepted date: 08/02/2025. (中国专利，已受理)
+
+Standards
+======
+* J Yang, T Yang, S Yang, X Zheng, Y Zhao, **B Liu**, J Zhang, R Wang, etc. Gaussian attribute derivation method independent of viewing distance. AVS in 12/2024.
