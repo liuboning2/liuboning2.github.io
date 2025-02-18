@@ -36,4 +36,4 @@ Patents
 
 Standards
 ======
-* J Yang, T Yang, S Yang, X Zheng, Y Zhao, **B Liu**, J Zhang, R Wang, etc. Gaussian attribute derivation method independent of viewing distance. AVS in 12/2024.
+* J Yang, Y Tang, S Yang, X Zheng, Y Zhao, **B Liu**, J Zhang, R Wang, etc. Gaussian attribute derivation method independent of viewing distance. AVS in 12/2024.
