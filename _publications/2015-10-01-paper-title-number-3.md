@@ -37,5 +37,5 @@ Patents
 
 Standards
 ======
-* J Yang, Y Tang, S Yang, X Zheng, Y Zhao, **B Liu**, J Zhang, R Wang, etc. Gaussian attribute derivation method independent of viewing distance. 91th AVS meeting, VRU Group on 19/12/2024.
 * J Yang, Y Tang, Y Zhai, X Zheng, **B Liu**, R Wang, etc. Implicit Modeling Method for Gaussian Skewness Offset Quantization. 92th AVS meeting, VRU Group on 12/03/2025.
+* J Yang, Y Tang, S Yang, X Zheng, Y Zhao, **B Liu**, J Zhang, R Wang, etc. Gaussian attribute derivation method independent of viewing distance. 91th AVS meeting, VRU Group on 19/12/2024.
