@@ -35,7 +35,7 @@ Patents
 * J Han, J Gu, X Gao, Y Guo, Z Jiang, Y Liu, R Shao, B Zhou, K Zhao, **B Liu**. Dynamic scene reconstruction method, device, computer device and storage medium. Licensed date: 29/11/2024. (中国专利，已授权)
 * **B Liu**, Y Liu. A fast geometric modeling method and device. Announcement date: 21/02/2025. (中国专利，已公开)
 * Y Liu, **B Liu**. The invention relates to an object 3D structure modeling method, device and storage medium. Announcement date: 26/04/2024. (中国专利，已公开)
-* **B Liu**, R Wang, W Gao. Gaussian point cloud rendering method, device, device and storage medium. Accepted date: 08/02/2025. (中国专利，已公开)
+* **B Liu**, R Wang, W Gao. Gaussian point cloud rendering method, device, device and storage medium. Announcement date: 17/06/2025. (中国专利，已公开)
 
 Standards
 ======
