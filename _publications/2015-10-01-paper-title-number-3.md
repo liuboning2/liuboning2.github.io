@@ -12,6 +12,7 @@ redirect_from:
 
 Papers
 ======
+* B Zhou, S Zheng, Z Liao，Z Ma, H Tu, **B Liu**, Y Liu. Splat-SAP: Feed-Forward Gaussian Splatting for Human-Centered Scene with Scale-Aware Point Map Reconstruction, ***AAAI***, 2026. [Paper](https://www.arxiv.org/pdf/2511.22704/)
 * B Zhou, S Zheng, H Tu, R Shao, **B Liu**, S Zhang, L Nie, Y Liu. GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views, ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2025. [Project](https://yaourtb.github.io/GPS-Gaussian+/)
 * **B Liu**, Y Zhao, X Jiang, X Ji, S Wang, Y Liu, J Wei. 5-D Epanechnikov Mixture-of-Experts in Light Field Image Compression, ***IEEE Transactions on Image Processing***, vol. 33, pp. 4029-4043, 2024. [Paper](https://ieeexplore.ieee.org/document/10577586)
 * **B Liu**, Z Zheng, Y Liu. Implicit Surface Representation using Epanechnikov Mixture Regression, ***IEEE Signal Processing Letters***, vol. 31, pp. 1810-1814, 2024. [Paper](https://ieeexplore.ieee.org/document/10578302)
