@@ -46,7 +46,7 @@ Academic Service
 Skills
 ======
 * Matlab, C, Latex, Python (PyTorch)
-* Soft Brush Calligraphy
+* Soft Brush Calligraphy (Level-8)
 
 
 <!-- Publications
