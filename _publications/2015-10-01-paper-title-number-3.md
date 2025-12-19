@@ -37,7 +37,9 @@ Patents
 * Y Liu, **B Liu**. The invention relates to an object 3D structure modeling method, device and storage medium. Announcement date: 26/04/2024. (中国专利，已公开)
 * **B Liu**, R Wang, W Gao. Gaussian point cloud rendering method, device, device and storage medium. Announcement date: 17/06/2025. (中国专利，已公开)
 
-Standards
+Standard Proposals
 ======
-* J Yang, Y Tang, Y Zhai, X Zheng, **B Liu**, R Wang, etc. Implicit Modeling Method for Gaussian Skewness Offset Quantization. 92th AVS meeting, VRU Group on 12/03/2025.
-* J Yang, Y Tang, S Yang, X Zheng, Y Zhao, **B Liu**, J Zhang, R Wang, etc. Gaussian attribute derivation method independent of viewing distance. 91th AVS meeting, VRU Group on 19/12/2024.
+* J Yang, L Leng, J Du, X Zheng, **B Liu**, X Meng, R Wang, etc. Cross-Platform Codec Consistency Optimization for the i3DV Intelligent 3D Video Coding Platform. 94th AVS meeting M9155, VRU Group on 21/08/2025.
+* J Yang, Y Tang, X Zheng, J Du, **B Liu**, X Meng, Y Zhang, R Wang, etc. Residual Primitive Generation and Coding Method. 93th AVS meeting M8970, VRU Group on 19/06/2025.
+* J Yang, Y Tang, Y Zhai, X Zheng, **B Liu**, R Wang, etc. Implicit Modeling Method for Gaussian Skewness Offset Quantization. 92th AVS meeting M8866, VRU Group on 12/03/2025.
+* J Yang, Y Tang, S Yang, X Zheng, Y Zhao, **B Liu**, J Zhang, R Wang, etc. Gaussian attribute derivation method independent of viewing distance. 91th AVS meeting M8620, VRU Group on 19/12/2024.
