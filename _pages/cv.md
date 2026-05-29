@@ -35,6 +35,7 @@ Funding Experience
 
 Awards and Honors
 ======
+* 2024 Special Appointed Talent (Category C), Shenzhen 深圳市引进人才特聘岗位C类（2025.12-2028.12）
 * 2022.06 Excellent Doctoral Dissertation of Jilin University 吉林大学优秀博士学位论文
 
 Academic Service
