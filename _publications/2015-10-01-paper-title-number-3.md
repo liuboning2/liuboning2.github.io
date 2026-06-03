@@ -34,7 +34,7 @@ Patents
 * J Qiu, H Chen, **B Liu**, Z Zheng. The invention relates to a dynamic SMPL expression method, system, device and medium. Licensed date: 26/01/2024. (中国专利，已授权)
 * **B Liu**, Y Liu. Geometry modeling method, device, electronic equipment and storage medium. Licensed date: 22/10/2024. (中国专利，已授权)
 * J Han, J Gu, X Gao, Y Guo, Z Jiang, Y Liu, R Shao, B Zhou, K Zhao, **B Liu**. Dynamic scene reconstruction method, device, computer device and storage medium. Licensed date: 29/11/2024. (中国专利，已授权)
-* **B Liu**, Y Liu. A fast geometric modeling method and device. Announcement date: 21/02/2025. (中国专利，已公开)
+* **B Liu**, Y Liu. A fast geometric modeling method and device. Licensed date: 01/06/2026. (中国专利，已授权)
 * **B Liu**, Y Liu. A method for dance movement generation using a 5-D Epanechnikov Kernel based modeling. Accepted date: 30/04/2026. (中国专利，已受理)
 * Y Liu, **B Liu**. The invention relates to an object 3D structure modeling method, device and storage medium. Announcement date: 26/04/2024. (中国专利，已公开)
 * **B Liu**, R Wang, W Gao. Gaussian point cloud rendering method, device, device and storage medium. Announcement date: 17/06/2025. (中国专利，已公开)
