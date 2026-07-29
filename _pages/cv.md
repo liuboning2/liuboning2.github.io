@@ -42,7 +42,7 @@ Academic Service
 ======
 * 2025.07-now, CSIG 3D Imaging and Display Committee, Member 中国图象图形学学会三维成像与显示专委会，委员
 * 2024.04-now, CSIG 3D Vision Committee, Member 中国图象图形学学会三维视觉专委会, 委员
-* Reviewer for DSP, CGF, ECCV 2024, CVPR 2025
+* Reviewer for DSP, CGF, ECCV 2024, CVPR 2025，TVCG
 
 Skills
 ======
